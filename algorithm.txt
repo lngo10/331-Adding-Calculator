@@ -1,0 +1,68 @@
+algorithm
+
+exponential funciton
+2^3 = 2 * 2 * 2 = 2 + 2 + 2 + 2
+3^3 = 3 * 3 * 3 = (3 + 3 + 3) + (3 + 3 + 3) + (3 + 3 + 3)
+2^4 = 2 * 2 * 2 * 2 = 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2
+
+ONLY WORKS FOR 3
+new variable d that is equal to a * b
+get c by doing a * d
+
+DIVIDE FUNCTION
+9 / 3 = 3
+12 / 4 = 3
+10 / 2 = 5
+
+a / b = c
+
+9 - 3 - 3 = 3
+12 - 4 - 4 = 4
+
+or
+
+start at 0
+c = 0 + b
+increment d by 1
+stop when b = a
+
+start at 0
+take b, add it to itself
+stop when b value is = a
+add increment
+c = how many times did we increment?
+
+a / b = c
+10 / 2 = 5
+a + a + a + a + a = 2 + 2 + 2 + 2 + 2 = 10 = b
+
+input:
+a = 10
+b = 2
+output:
+c = how many 2s = 5
+
+
+
+
+int x = 0;
+while (x< a)
+{
+	x = 0 + b
+	c = c + 1
+}
+
+returning 0
+
+
+
+
+
+first loop
+c = 0 < 10
+then
+c = 0 + 2 = 2
+end loop
+
+second loop
+c = 2 < 10
