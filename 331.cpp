@@ -74,6 +74,7 @@ int main()
     //change to switch (case) function for simplicity k
 
     //if +
+    /*
     if (o == '+')
     {
         add(a, b);
@@ -99,6 +100,26 @@ int main()
     {
         exp(a, b);
         return c;
+    }*/
+
+    //test switch function
+    switch (o)
+    {
+    case '+': add(a, b);
+        return c;
+        break;
+    case 'x' || '*': multiply(a, b);
+        return c;
+        break;
+    case '-': sub(a, b);
+        return c;
+        break;
+    case '/': div(a, b);
+        return c;
+        break;
+    case '^': exp(a, b);
+        return c;
+        break;
     }
 }
 
