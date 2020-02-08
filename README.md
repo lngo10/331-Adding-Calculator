@@ -18,3 +18,6 @@ The only binary arithmetic operator that you can use is + (addition).
 The only unary operator that you can use is ++ (increment operator).
 
 No bitwise operations are allowed.
+
+Detailed info found at:
+https://www.reddit.com/r/dailyprogrammer/comments/6ze9z0/20170911_challenge_331_easy_the_adding_calculator/
