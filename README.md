@@ -1,6 +1,7 @@
 # 331-Adding-Calculator
+Description:
 
-Description
+
 Make a calculator that lets the user add, subtract, multiply and divide integers. It should allow exponents too. The user can only enter integers and must expect the result to be integers. The twist is that YOU, the programmer, can only let the program calculate expressions using addition. Only addition. The user can enter 3*2 however you cannot calculate it using multiplication.
 
 Basically, the programmer is not allowed to multiply, divide and subtract using the operations provided by a programming language. To the programmer, the only accessible direct operation is addition.
